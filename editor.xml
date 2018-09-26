@@ -2,6 +2,6 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="20" />
     <option name="FONT_FAMILY" value="Ayuthaya" />
-    <option name="SECONDARY_FONT_FAMILY" value="Anonymous Pro for Powerline" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
 </application>
