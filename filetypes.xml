@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".babalrc" type="PLAIN_TEXT" />
       <mapping pattern=".babalrc.json" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
