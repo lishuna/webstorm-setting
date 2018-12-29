@@ -3,11 +3,17 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="JumpToLastWindow" />
+  <action id="MarkdownNavigator.ToggleSplitLayoutChange" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
@@ -15,6 +21,11 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="ParameterInfo" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="meta alt l" second-keystroke="shift alt f" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="shift meta r" />
